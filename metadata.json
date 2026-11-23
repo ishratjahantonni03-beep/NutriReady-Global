@@ -1,0 +1,6 @@
+{
+  "name": "NutriReady",
+  "description": "Unconditional emergency nutrition access, ration guidance, household hydration planning, and safe food preparation without registration or personal data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
